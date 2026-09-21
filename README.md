@@ -389,3 +389,11 @@ hierarchical_news_classifier/
 └── run_pipeline.py                 # Master script to run full pipeline
 ```
 ---
+---
+
+## Contributors
+
+This project was developed collaboratively as a team project.
+
+- Sameera R Suanand
+- Akshat-GD
